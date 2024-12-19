@@ -1,0 +1,6 @@
+led.c:16:7:clearLed	8	static
+led.c:26:7:display7SEG	16	static
+led.c:131:7:update7SEG	16	static
+led.c:166:7:scanLedBuffer	8	static
+led.c:180:7:updateLedBufferVal	24	static
+led.c:188:7:displayLed	16	static

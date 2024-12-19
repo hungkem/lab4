@@ -1,0 +1,7 @@
+traffic_light.c:9:8:redx_greeny	8	static
+traffic_light.c:19:7:redx_yellowy	8	static
+traffic_light.c:29:7:greenx_redy	8	static
+traffic_light.c:39:7:yellowx_redy	8	static
+traffic_light.c:49:7:red_man	8	static
+traffic_light.c:63:7:yellow_man	8	static
+traffic_light.c:77:7:green_man	8	static
